@@ -93,6 +93,9 @@ Når systemleverandør er innsender kan vilkårlige organisasjoner i Tenor benyt
 ### Test der systembruker benyttes (alternativ 2)
 Den valgte organisasjonen i Tenor (som representerer en test-inkassovirksomhet) må godkjenne at dens fagsystem kan benytte tilgangsressursen/tjenesten «Innsending og oppfølging av utleggsbegjæring» på vegne av virksomheten. Det opprettes da en «systembruker» som er koblingen mellom bruker, system, leverandør og API.
 
+# Produksjonsmiljø
+URL til produksjonsmiljøet er https://api.skatteetaten.no/api/utleggsbegjaering/v2
+
 </TabItem>
 <TabItem headerText="Overgangsperioden" itemKey="itemKey-Overgangsperioden">
 
